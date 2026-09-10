@@ -1,0 +1,16 @@
+{
+  "_id": "dspl000000000003",
+  "_key": "!items!dspl000000000003",
+  "name": "Keen Senses",
+  "type": "spell",
+  "img": "icons/magic/perception/eye-slit-red.webp",
+  "system": {
+    "description": "A passive trait granting heightened awareness of one's surroundings.",
+    "charges": { "value": 0, "max": 0 },
+    "category": "trait"
+  },
+  "effects": [],
+  "flags": {},
+  "sort": 100000,
+  "folder": "dsfo000000000002"
+}

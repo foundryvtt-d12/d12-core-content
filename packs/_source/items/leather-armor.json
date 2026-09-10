@@ -1,0 +1,19 @@
+{
+  "_id": "ditm000000000002",
+  "_key": "!items!ditm000000000002",
+  "name": "Leather Armor",
+  "type": "item",
+  "img": "icons/equipment/chest/breastplate-leather-brown.webp",
+  "system": {
+    "description": "Light armor made of hardened leather, offering basic protection without hindering movement.",
+    "quantity": 1,
+    "weight": 5,
+    "rarity": "common",
+    "price": 20,
+    "category": "armor"
+  },
+  "effects": [],
+  "flags": {},
+  "sort": 100000,
+  "folder": "difo000000000003"
+}

@@ -1,0 +1,19 @@
+{
+  "_id": "ditm000000000005",
+  "_key": "!items!ditm000000000005",
+  "name": "Traveler's Pack",
+  "type": "item",
+  "img": "icons/containers/bags/pack-leather-brown.webp",
+  "system": {
+    "description": "A sturdy backpack containing basic supplies for the road: rope, a bedroll, and rations.",
+    "quantity": 1,
+    "weight": 4,
+    "rarity": "common",
+    "price": 8,
+    "category": "item"
+  },
+  "effects": [],
+  "flags": {},
+  "sort": 100000,
+  "folder": "difo000000000001"
+}

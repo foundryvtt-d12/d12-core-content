@@ -1,0 +1,23 @@
+{
+  "_id": "dspl000000000002",
+  "_key": "!items!dspl000000000002",
+  "name": "Healing Light",
+  "type": "spell",
+  "img": "icons/magic/life/heart-cross-strong-flame-green.webp",
+  "system": {
+    "description": "Channel a soothing light into a wounded ally, mending their injuries.",
+    "action": {
+      "roll": {
+        "ability": "cha",
+        "bonus": 0,
+        "target": { "type": "fixed", "difficulty": 6 }
+      }
+    },
+    "charges": { "value": 2, "max": 2 },
+    "category": "spell"
+  },
+  "effects": [],
+  "flags": {},
+  "sort": 100000,
+  "folder": "dsfo000000000001"
+}

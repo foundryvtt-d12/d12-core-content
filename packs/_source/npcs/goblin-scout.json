@@ -1,0 +1,33 @@
+{
+  "_id": "dnpc000000000001",
+  "_key": "!actors!dnpc000000000001",
+  "name": "Goblin Scout",
+  "type": "npc",
+  "img": "icons/creatures/humanoid/goblin-green.webp",
+  "system": {
+    "health": { "value": 4, "max": 4 },
+    "mana": { "value": 0, "max": 0 },
+    "biography": "A sneaky goblin scout, quick to flee when outmatched.",
+    "abilities": {
+      "str": { "value": 0 },
+      "agi": { "value": 2 },
+      "int": { "value": 0 },
+      "per": { "value": 1 },
+      "cha": { "value": -1 }
+    },
+    "defenses": {
+      "arm": { "value": 5 },
+      "end": { "value": 6 },
+      "wil": { "value": 7 }
+    }
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "prototypeToken": {
+    "name": "Goblin Scout",
+    "actorLink": false
+  },
+  "sort": 100000,
+  "folder": "dnfo000000000001"
+}

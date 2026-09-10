@@ -1,0 +1,33 @@
+{
+  "_id": "dnpc000000000002",
+  "_key": "!actors!dnpc000000000002",
+  "name": "Dire Wolf",
+  "type": "npc",
+  "img": "icons/creatures/mammals/wolf-howl-moon-forest-blue.webp",
+  "system": {
+    "health": { "value": 8, "max": 8 },
+    "mana": { "value": 0, "max": 0 },
+    "biography": "A large, aggressive wolf that hunts in packs and rarely gives up a chase.",
+    "abilities": {
+      "str": { "value": 2 },
+      "agi": { "value": 3 },
+      "int": { "value": -2 },
+      "per": { "value": 2 },
+      "cha": { "value": -2 }
+    },
+    "defenses": {
+      "arm": { "value": 6 },
+      "end": { "value": 7 },
+      "wil": { "value": 5 }
+    }
+  },
+  "items": [],
+  "effects": [],
+  "flags": {},
+  "prototypeToken": {
+    "name": "Dire Wolf",
+    "actorLink": false
+  },
+  "sort": 100000,
+  "folder": "dnfo000000000002"
+}
