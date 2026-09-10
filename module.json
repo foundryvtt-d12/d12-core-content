@@ -1,0 +1,61 @@
+{
+  "id": "d12-assets",
+  "title": "D12 Core Asset Pack",
+  "description": "A shareable compendium pack of items, spells, and NPCs for the D12 system.",
+  "authors": [
+    {
+      "name": "Flavien Charlon",
+      "url": "https://github.com/flavien/"
+    }
+  ],
+  "url": "https://github.com/foundryvtt-d12/d12-assets",
+  "license": "LICENSE",
+  "readme": "README.md",
+  "manifest": "{MANIFEST}",
+  "download": "{DOWNLOAD}",
+  "bugs": "https://github.com/foundryvtt-d12/d12-assets/issues",
+  "changelog": "CHANGELOG.md",
+  "version": "{VERSION}",
+  "compatibility": {
+    "minimum": "13",
+    "maximum": "14",
+    "verified": "14.360"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "d12",
+        "type": "system",
+        "manifest": "https://github.com/foundryvtt-d12/d12/releases/latest/download/system.json",
+        "compatibility": {
+          "minimum": "1"
+        }
+      }
+    ]
+  },
+  "packs": [
+    {
+      "name": "items",
+      "label": "D12 Items",
+      "system": "d12",
+      "path": "packs/items",
+      "type": "Item"
+    },
+    {
+      "name": "spells",
+      "label": "D12 Spells",
+      "system": "d12",
+      "path": "packs/spells",
+      "type": "Item"
+    },
+    {
+      "name": "npcs",
+      "label": "D12 NPCs",
+      "system": "d12",
+      "path": "packs/npcs",
+      "type": "Actor"
+    }
+  ],
+  "packFolders": [],
+  "socket": false
+}
