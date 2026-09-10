@@ -1,0 +1,17 @@
+{
+  "name": "d12-assets",
+  "version": "1.0.0",
+  "description": "Compendium content module (items, spells, NPCs) for the D12 Foundry VTT system",
+  "type": "module",
+  "private": true,
+  "license": "CC-BY-NC-4.0",
+  "author": "Flavien Charlon",
+  "scripts": {
+    "build": "node tools/packs.mjs compile",
+    "unpack": "node tools/packs.mjs extract",
+    "clean": "node tools/packs.mjs clean"
+  },
+  "devDependencies": {
+    "@foundryvtt/foundryvtt-cli": "^1.0.3"
+  }
+}
