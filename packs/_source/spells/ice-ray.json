@@ -5,7 +5,7 @@
   "type": "spell",
   "img": "icons/svg/item-bag.svg",
   "system": {
-    "description": "You project a ray of frost on the target dealing 2 damage.\nMiss: The target is only slowed.",
+    "description": "You project a ray of frost on the target dealing 2 damage.<br />Miss: The target is only slowed.",
     "action": {
       "roll": {
         "ability": "int",

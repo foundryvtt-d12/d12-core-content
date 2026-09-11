@@ -5,7 +5,7 @@
   "type": "item",
   "img": "icons/svg/item-bag.svg",
   "system": {
-    "description": "Two-handed, Fire\nDeal 1 damage.\nRoll 12: Damage ×2.",
+    "description": "Two-handed, Fire<br />Deal 1 damage.<br />Roll 12: Damage ×2.",
     "action": {
       "roll": {
         "ability": "int",

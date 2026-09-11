@@ -5,7 +5,7 @@
   "type": "item",
   "img": "icons/svg/item-bag.svg",
   "system": {
-    "description": "Two-Handed, Reach\nDeal 2 damage.",
+    "description": "Two-Handed, Reach<br />Deal 2 damage.",
     "action": {
       "roll": {
         "ability": "str",

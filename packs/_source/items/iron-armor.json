@@ -5,7 +5,7 @@
   "type": "item",
   "img": "icons/svg/item-bag.svg",
   "system": {
-    "description": "+2 Armor\nRequires: 1 Strength",
+    "description": "+2 Armor<br />Requires: 1 Strength",
     "quantity": 1,
     "weight": 15,
     "rarity": "common",

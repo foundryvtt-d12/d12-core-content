@@ -5,7 +5,7 @@
   "type": "spell",
   "img": "icons/svg/item-bag.svg",
   "system": {
-    "description": "You prepare a potion.\nMiss: The effect of the potion is unknown.",
+    "description": "You prepare a potion.<br />Miss: The effect of the potion is unknown.",
     "action": {
       "roll": {
         "ability": "str",

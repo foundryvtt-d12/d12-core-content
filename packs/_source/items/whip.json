@@ -5,7 +5,7 @@
   "type": "item",
   "img": "icons/svg/item-bag.svg",
   "system": {
-    "description": "Deal 1 damage.\nSlow the target.",
+    "description": "Deal 1 damage.<br />Slow the target.",
     "action": {
       "roll": {
         "ability": "str",

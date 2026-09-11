@@ -5,7 +5,7 @@
   "type": "item",
   "img": "icons/svg/item-bag.svg",
   "system": {
-    "description": "The target becomes invisible.\nCooldown: 1 hour",
+    "description": "The target becomes invisible.<br />Cooldown: 1 hour",
     "action": {
       "roll": {
         "ability": "cha",

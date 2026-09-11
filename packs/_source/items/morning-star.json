@@ -5,7 +5,7 @@
   "type": "item",
   "img": "icons/svg/item-bag.svg",
   "system": {
-    "description": "Deal 1 damage.\nRoll 12: Damage ×2.",
+    "description": "Deal 1 damage.<br />Roll 12: Damage ×2.",
     "action": {
       "roll": {
         "ability": "str",

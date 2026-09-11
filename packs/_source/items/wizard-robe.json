@@ -5,7 +5,7 @@
   "type": "item",
   "img": "icons/svg/item-bag.svg",
   "system": {
-    "description": "+1 Magic Defense\nRequires: 1 Intelligence",
+    "description": "+1 Magic Defense<br />Requires: 1 Intelligence",
     "quantity": 1,
     "weight": 2,
     "rarity": "common",

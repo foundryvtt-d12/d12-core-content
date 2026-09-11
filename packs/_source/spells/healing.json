@@ -5,7 +5,7 @@
   "type": "spell",
   "img": "icons/svg/item-bag.svg",
   "system": {
-    "description": "Restore 3 health to a character you can touch.\nMiss: Restore 1 health.",
+    "description": "Restore 3 health to a character you can touch.<br />Miss: Restore 1 health.",
     "action": {
       "roll": {
         "ability": "cha",

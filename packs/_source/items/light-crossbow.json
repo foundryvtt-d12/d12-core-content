@@ -5,7 +5,7 @@
   "type": "item",
   "img": "icons/svg/item-bag.svg",
   "system": {
-    "description": "Two-handed\nDeal 1 damage.",
+    "description": "Two-handed<br />Deal 1 damage.",
     "action": {
       "roll": {
         "ability": "agi",

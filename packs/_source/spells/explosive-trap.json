@@ -5,7 +5,7 @@
   "type": "spell",
   "img": "icons/svg/item-bag.svg",
   "system": {
-    "description": "You set a trap which you can detonate from a distance.\nDeals 2 damage.",
+    "description": "You set a trap which you can detonate from a distance.<br />Deals 2 damage.",
     "charges": {
       "value": 0,
       "max": 0

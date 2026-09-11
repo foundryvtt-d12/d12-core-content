@@ -5,7 +5,7 @@
   "type": "item",
   "img": "icons/svg/item-bag.svg",
   "system": {
-    "description": "Restore 1 health.\nCooldown: 1 hour",
+    "description": "Restore 1 health.<br />Cooldown: 1 hour",
     "action": {
       "roll": {
         "ability": "cha",

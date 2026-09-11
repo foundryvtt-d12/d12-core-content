@@ -5,7 +5,7 @@
   "type": "spell",
   "img": "icons/svg/item-bag.svg",
   "system": {
-    "description": "Lightning strikes the target and deals 3 damage.\nMiss: Deal 1 damage.",
+    "description": "Lightning strikes the target and deals 3 damage.<br />Miss: Deal 1 damage.",
     "action": {
       "roll": {
         "ability": "int",
