@@ -1,0 +1,30 @@
+{
+  "_id": "ditm000000000127",
+  "_key": "!items!ditm000000000127",
+  "name": "War Hammer",
+  "type": "item",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "Deal 1 damage.\nRoll 11, 12: Damage ×2.",
+    "action": {
+      "roll": {
+        "ability": "str",
+        "bonus": 0,
+        "target": {
+          "type": "arm",
+          "difficulty": 6
+        },
+        "critical": 11
+      }
+    },
+    "quantity": 1,
+    "weight": 8,
+    "rarity": "common",
+    "price": 35,
+    "category": "weapon"
+  },
+  "effects": [],
+  "flags": {},
+  "sort": 100000,
+  "folder": "difo000000000002"
+}

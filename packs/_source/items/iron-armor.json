@@ -1,15 +1,15 @@
 {
-  "_id": "ditm000000000206",
-  "_key": "!items!ditm000000000206",
-  "name": "Leather Armor",
+  "_id": "ditm000000000203",
+  "_key": "!items!ditm000000000203",
+  "name": "Iron Armor",
   "type": "item",
   "img": "icons/svg/item-bag.svg",
   "system": {
-    "description": "+1 Armor",
+    "description": "+2 Armor\nRequires: 1 Strength",
     "quantity": 1,
-    "weight": 5,
+    "weight": 15,
     "rarity": "common",
-    "price": 20,
+    "price": 60,
     "category": "armor"
   },
   "effects": [],

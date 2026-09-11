@@ -1,0 +1,19 @@
+{
+  "_id": "ditm000000000213",
+  "_key": "!items!ditm000000000213",
+  "name": "Potion of Frost",
+  "type": "item",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "You turn to ice.",
+    "quantity": 1,
+    "weight": 1,
+    "rarity": "common",
+    "price": 15,
+    "category": "consumable"
+  },
+  "effects": [],
+  "flags": {},
+  "sort": 100000,
+  "folder": "difo000000000005"
+}

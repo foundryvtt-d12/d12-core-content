@@ -1,15 +1,15 @@
 {
-  "_id": "ditm000000000206",
-  "_key": "!items!ditm000000000206",
-  "name": "Leather Armor",
+  "_id": "ditm000000000205",
+  "_key": "!items!ditm000000000205",
+  "name": "Golden Shield",
   "type": "item",
   "img": "icons/svg/item-bag.svg",
   "system": {
     "description": "+1 Armor",
     "quantity": 1,
-    "weight": 5,
+    "weight": 8,
     "rarity": "common",
-    "price": 20,
+    "price": 40,
     "category": "armor"
   },
   "effects": [],

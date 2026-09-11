@@ -1,0 +1,30 @@
+{
+  "_id": "ditm000000000128",
+  "_key": "!items!ditm000000000128",
+  "name": "Warpick",
+  "type": "item",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "Deal 1 damage.\nRoll 12: Stun the target.",
+    "action": {
+      "roll": {
+        "ability": "str",
+        "bonus": 0,
+        "target": {
+          "type": "arm",
+          "difficulty": 6
+        },
+        "critical": 12
+      }
+    },
+    "quantity": 1,
+    "weight": 5,
+    "rarity": "common",
+    "price": 20,
+    "category": "weapon"
+  },
+  "effects": [],
+  "flags": {},
+  "sort": 100000,
+  "folder": "difo000000000002"
+}

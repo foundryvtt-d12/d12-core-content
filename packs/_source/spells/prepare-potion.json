@@ -1,0 +1,29 @@
+{
+  "_id": "dspl000000000206",
+  "_key": "!items!dspl000000000206",
+  "name": "Prepare Potion",
+  "type": "spell",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "You prepare a potion.\nMiss: The effect of the potion is unknown.",
+    "action": {
+      "roll": {
+        "ability": "str",
+        "bonus": 0,
+        "target": {
+          "type": "fixed",
+          "difficulty": 5
+        }
+      }
+    },
+    "charges": {
+      "value": 0,
+      "max": 0
+    },
+    "category": "spell"
+  },
+  "effects": [],
+  "flags": {},
+  "sort": 100000,
+  "folder": "dsfo000000000001"
+}

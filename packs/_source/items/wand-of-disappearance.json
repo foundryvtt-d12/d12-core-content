@@ -1,0 +1,29 @@
+{
+  "_id": "ditm000000000125",
+  "_key": "!items!ditm000000000125",
+  "name": "Wand of Disappearance",
+  "type": "item",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "The target becomes invisible.\nCooldown: 1 hour",
+    "action": {
+      "roll": {
+        "ability": "cha",
+        "bonus": 0,
+        "target": {
+          "type": "fixed",
+          "difficulty": 5
+        }
+      }
+    },
+    "quantity": 1,
+    "weight": 1,
+    "rarity": "common",
+    "price": 55,
+    "category": "weapon"
+  },
+  "effects": [],
+  "flags": {},
+  "sort": 100000,
+  "folder": "difo000000000002"
+}

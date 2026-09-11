@@ -1,0 +1,28 @@
+{
+  "_id": "dspl000000000213",
+  "_key": "!items!dspl000000000213",
+  "name": "Stun",
+  "type": "spell",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "You stun the target.",
+    "action": {
+      "roll": {
+        "ability": "str",
+        "bonus": 0,
+        "target": {
+          "type": "arm"
+        }
+      }
+    },
+    "charges": {
+      "value": 0,
+      "max": 0
+    },
+    "category": "spell"
+  },
+  "effects": [],
+  "flags": {},
+  "sort": 100000,
+  "folder": "dsfo000000000001"
+}

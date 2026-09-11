@@ -1,0 +1,19 @@
+{
+  "_id": "dspl000000000208",
+  "_key": "!items!dspl000000000208",
+  "name": "Shining Sword",
+  "type": "spell",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "Your sword glows brightly.",
+    "charges": {
+      "value": 0,
+      "max": 0
+    },
+    "category": "spell"
+  },
+  "effects": [],
+  "flags": {},
+  "sort": 100000,
+  "folder": "dsfo000000000001"
+}

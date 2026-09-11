@@ -1,0 +1,28 @@
+{
+  "_id": "dspl000000000102",
+  "_key": "!items!dspl000000000102",
+  "name": "Fire",
+  "type": "spell",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "You throw a small fireball dealing 2 damage.",
+    "action": {
+      "roll": {
+        "ability": "int",
+        "bonus": 0,
+        "target": {
+          "type": "end"
+        }
+      }
+    },
+    "charges": {
+      "value": 0,
+      "max": 0
+    },
+    "category": "spell"
+  },
+  "effects": [],
+  "flags": {},
+  "sort": 100000,
+  "folder": "dsfo000000000001"
+}

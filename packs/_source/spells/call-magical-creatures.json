@@ -1,0 +1,29 @@
+{
+  "_id": "dspl000000000101",
+  "_key": "!items!dspl000000000101",
+  "name": "Call Magical Creatures",
+  "type": "spell",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "You call any magical creature who can hear you.",
+    "action": {
+      "roll": {
+        "ability": "cha",
+        "bonus": 0,
+        "target": {
+          "type": "fixed",
+          "difficulty": 4
+        }
+      }
+    },
+    "charges": {
+      "value": 0,
+      "max": 0
+    },
+    "category": "spell"
+  },
+  "effects": [],
+  "flags": {},
+  "sort": 100000,
+  "folder": "dsfo000000000001"
+}

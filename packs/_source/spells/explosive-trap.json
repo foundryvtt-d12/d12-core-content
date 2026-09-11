@@ -1,0 +1,19 @@
+{
+  "_id": "dspl000000000107",
+  "_key": "!items!dspl000000000107",
+  "name": "Explosive Trap",
+  "type": "spell",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "You set a trap which you can detonate from a distance.\nDeals 2 damage.",
+    "charges": {
+      "value": 0,
+      "max": 0
+    },
+    "category": "spell"
+  },
+  "effects": [],
+  "flags": {},
+  "sort": 100000,
+  "folder": "dsfo000000000001"
+}

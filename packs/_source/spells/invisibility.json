@@ -1,0 +1,29 @@
+{
+  "_id": "dspl000000000117",
+  "_key": "!items!dspl000000000117",
+  "name": "Invisibility",
+  "type": "spell",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "A character you can touch becomes invisible.",
+    "action": {
+      "roll": {
+        "ability": "int",
+        "bonus": 0,
+        "target": {
+          "type": "fixed",
+          "difficulty": 5
+        }
+      }
+    },
+    "charges": {
+      "value": 0,
+      "max": 0
+    },
+    "category": "spell"
+  },
+  "effects": [],
+  "flags": {},
+  "sort": 100000,
+  "folder": "dsfo000000000001"
+}

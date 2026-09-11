@@ -1,15 +1,15 @@
 {
-  "_id": "ditm000000000206",
-  "_key": "!items!ditm000000000206",
-  "name": "Leather Armor",
+  "_id": "ditm000000000207",
+  "_key": "!items!ditm000000000207",
+  "name": "Magic Shield",
   "type": "item",
   "img": "icons/svg/item-bag.svg",
   "system": {
-    "description": "+1 Armor",
+    "description": "+1 Magic Defense",
     "quantity": 1,
-    "weight": 5,
+    "weight": 6,
     "rarity": "common",
-    "price": 20,
+    "price": 60,
     "category": "armor"
   },
   "effects": [],

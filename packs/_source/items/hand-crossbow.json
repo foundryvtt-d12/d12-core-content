@@ -1,0 +1,29 @@
+{
+  "_id": "ditm000000000106",
+  "_key": "!items!ditm000000000106",
+  "name": "Hand Crossbow",
+  "type": "item",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "Deal 1 damage.",
+    "action": {
+      "roll": {
+        "ability": "agi",
+        "bonus": 0,
+        "target": {
+          "type": "arm",
+          "difficulty": 6
+        }
+      }
+    },
+    "quantity": 1,
+    "weight": 2,
+    "rarity": "common",
+    "price": 25,
+    "category": "weapon"
+  },
+  "effects": [],
+  "flags": {},
+  "sort": 100000,
+  "folder": "difo000000000002"
+}

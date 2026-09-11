@@ -1,0 +1,19 @@
+{
+  "_id": "ditm000000000208",
+  "_key": "!items!ditm000000000208",
+  "name": "Protective Orb",
+  "type": "item",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "+1 Magic Defense",
+    "quantity": 1,
+    "weight": 1,
+    "rarity": "common",
+    "price": 45,
+    "category": "accessory"
+  },
+  "effects": [],
+  "flags": {},
+  "sort": 100000,
+  "folder": "difo000000000004"
+}

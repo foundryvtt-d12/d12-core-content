@@ -1,7 +1,7 @@
 {
-  "_id": "ditm000000000206",
-  "_key": "!items!ditm000000000206",
-  "name": "Leather Armor",
+  "_id": "ditm000000000201",
+  "_key": "!items!ditm000000000201",
+  "name": "Basic Shield",
   "type": "item",
   "img": "icons/svg/item-bag.svg",
   "system": {
@@ -9,7 +9,7 @@
     "quantity": 1,
     "weight": 5,
     "rarity": "common",
-    "price": 20,
+    "price": 10,
     "category": "armor"
   },
   "effects": [],

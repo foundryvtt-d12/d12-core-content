@@ -1,0 +1,19 @@
+{
+  "_id": "ditm000000000215",
+  "_key": "!items!ditm000000000215",
+  "name": "Poison Potion",
+  "type": "item",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "You become poisoned.",
+    "quantity": 1,
+    "weight": 1,
+    "rarity": "common",
+    "price": 12,
+    "category": "consumable"
+  },
+  "effects": [],
+  "flags": {},
+  "sort": 100000,
+  "folder": "difo000000000005"
+}

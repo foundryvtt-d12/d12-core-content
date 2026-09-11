@@ -1,0 +1,29 @@
+{
+  "_id": "dspl000000000111",
+  "_key": "!items!dspl000000000111",
+  "name": "Fog",
+  "type": "spell",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "You create a dense cloud of fog.",
+    "action": {
+      "roll": {
+        "ability": "int",
+        "bonus": 0,
+        "target": {
+          "type": "fixed",
+          "difficulty": 5
+        }
+      }
+    },
+    "charges": {
+      "value": 0,
+      "max": 0
+    },
+    "category": "spell"
+  },
+  "effects": [],
+  "flags": {},
+  "sort": 100000,
+  "folder": "dsfo000000000001"
+}

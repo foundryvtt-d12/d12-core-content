@@ -1,0 +1,29 @@
+{
+  "_id": "ditm000000000129",
+  "_key": "!items!ditm000000000129",
+  "name": "Whip",
+  "type": "item",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "Deal 1 damage.\nSlow the target.",
+    "action": {
+      "roll": {
+        "ability": "str",
+        "bonus": 0,
+        "target": {
+          "type": "arm",
+          "difficulty": 6
+        }
+      }
+    },
+    "quantity": 1,
+    "weight": 1,
+    "rarity": "common",
+    "price": 8,
+    "category": "weapon"
+  },
+  "effects": [],
+  "flags": {},
+  "sort": 100000,
+  "folder": "difo000000000002"
+}

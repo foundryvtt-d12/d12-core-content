@@ -1,0 +1,29 @@
+{
+  "_id": "dspl000000000113",
+  "_key": "!items!dspl000000000113",
+  "name": "Healing",
+  "type": "spell",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "Restore 3 health to a character you can touch.\nMiss: Restore 1 health.",
+    "action": {
+      "roll": {
+        "ability": "cha",
+        "bonus": 0,
+        "target": {
+          "type": "fixed",
+          "difficulty": 5
+        }
+      }
+    },
+    "charges": {
+      "value": 0,
+      "max": 0
+    },
+    "category": "spell"
+  },
+  "effects": [],
+  "flags": {},
+  "sort": 100000,
+  "folder": "dsfo000000000001"
+}

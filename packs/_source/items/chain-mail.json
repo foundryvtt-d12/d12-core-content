@@ -1,15 +1,15 @@
 {
-  "_id": "ditm000000000206",
-  "_key": "!items!ditm000000000206",
-  "name": "Leather Armor",
+  "_id": "ditm000000000202",
+  "_key": "!items!ditm000000000202",
+  "name": "Chain Mail",
   "type": "item",
   "img": "icons/svg/item-bag.svg",
   "system": {
-    "description": "+1 Armor",
+    "description": "+3 Armor\nRequires: 2 Strength",
     "quantity": 1,
-    "weight": 5,
+    "weight": 12,
     "rarity": "common",
-    "price": 20,
+    "price": 50,
     "category": "armor"
   },
   "effects": [],

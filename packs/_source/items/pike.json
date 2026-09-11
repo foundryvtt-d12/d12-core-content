@@ -1,0 +1,29 @@
+{
+  "_id": "ditm000000000115",
+  "_key": "!items!ditm000000000115",
+  "name": "Pike",
+  "type": "item",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "Two-Handed, Reach\nDeal 2 damage.",
+    "action": {
+      "roll": {
+        "ability": "str",
+        "bonus": 0,
+        "target": {
+          "type": "arm",
+          "difficulty": 6
+        }
+      }
+    },
+    "quantity": 1,
+    "weight": 6,
+    "rarity": "common",
+    "price": 18,
+    "category": "weapon"
+  },
+  "effects": [],
+  "flags": {},
+  "sort": 100000,
+  "folder": "difo000000000002"
+}

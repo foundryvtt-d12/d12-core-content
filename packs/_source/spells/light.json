@@ -1,0 +1,19 @@
+{
+  "_id": "dspl000000000104",
+  "_key": "!items!dspl000000000104",
+  "name": "Light",
+  "type": "spell",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "You summon a small sphere shedding a bright light.",
+    "charges": {
+      "value": 0,
+      "max": 0
+    },
+    "category": "spell"
+  },
+  "effects": [],
+  "flags": {},
+  "sort": 100000,
+  "folder": "dsfo000000000001"
+}

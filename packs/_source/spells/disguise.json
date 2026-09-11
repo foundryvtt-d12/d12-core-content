@@ -1,0 +1,19 @@
+{
+  "_id": "dspl000000000105",
+  "_key": "!items!dspl000000000105",
+  "name": "Disguise",
+  "type": "spell",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "You can disguise youself into any character you have seen before.",
+    "charges": {
+      "value": 0,
+      "max": 0
+    },
+    "category": "spell"
+  },
+  "effects": [],
+  "flags": {},
+  "sort": 100000,
+  "folder": "dsfo000000000001"
+}

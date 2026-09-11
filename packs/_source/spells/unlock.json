@@ -1,0 +1,19 @@
+{
+  "_id": "dspl000000000217",
+  "_key": "!items!dspl000000000217",
+  "name": "Unlock",
+  "type": "spell",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "description": "You unlock a locked item.",
+    "charges": {
+      "value": 0,
+      "max": 0
+    },
+    "category": "spell"
+  },
+  "effects": [],
+  "flags": {},
+  "sort": 100000,
+  "folder": "dsfo000000000001"
+}
