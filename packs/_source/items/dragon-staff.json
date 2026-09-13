@@ -5,7 +5,7 @@
   "type": "item",
   "img": "modules/d12-assets/assets/items/dragon-staff.png",
   "system": {
-    "description": "Two-handed, Fire<br />Deal 1 damage.<br />Roll 12: Damage ×2.",
+    "description": "<p style=\"text-align: center;\"><strong>Two-handed, Fire</strong></p>\n<p style=\"text-align: center;\">Deal 1 damage.</p>\n<p style=\"text-align: center;\"><strong>Critical:</strong> Damage ×2.</p>",
     "action": {
       "roll": {
         "ability": "int",

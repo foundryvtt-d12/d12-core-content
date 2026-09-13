@@ -5,7 +5,7 @@
   "type": "spell",
   "img": "modules/d12-assets/assets/spells/electricity.webp",
   "system": {
-    "description": "You create a ball of lightning dealing 2 damage to the target.",
+    "description": "<p style=\"text-align: center;\">You create a ball of lightning dealing 2 damage to the target.</p>",
     "action": {
       "roll": {
         "ability": "int",

@@ -5,7 +5,7 @@
   "type": "item",
   "img": "modules/d12-assets/assets/items/maul.png",
   "system": {
-    "description": "Two-handed<br />Deal 2 damage.<br />Roll 11, 12: Stun the target.",
+    "description": "<p style=\"text-align: center;\"><strong>Two-handed</strong></p>\n<p style=\"text-align: center;\">Deal 2 damage.</p>\n<p style=\"text-align: center;\"><strong>Critical:</strong> Stun the target.</p>",
     "action": {
       "roll": {
         "ability": "str",

@@ -5,7 +5,7 @@
   "type": "item",
   "img": "modules/d12-assets/assets/items/leather-armor.png",
   "system": {
-    "description": "+1 Armor",
+    "description": "<p style=\"text-align: center;\">+1 Armor</p>",
     "quantity": 1,
     "weight": 5,
     "rarity": "common",

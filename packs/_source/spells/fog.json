@@ -5,7 +5,7 @@
   "type": "spell",
   "img": "modules/d12-assets/assets/spells/fog.webp",
   "system": {
-    "description": "You create a dense cloud of fog.",
+    "description": "<p style=\"text-align: center;\">You create a dense cloud of fog.</p>",
     "action": {
       "roll": {
         "ability": "int",

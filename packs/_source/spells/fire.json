@@ -5,7 +5,7 @@
   "type": "spell",
   "img": "modules/d12-assets/assets/spells/fire.webp",
   "system": {
-    "description": "You throw a small fireball dealing 2 damage.",
+    "description": "<p style=\"text-align: center;\">You throw a small fireball dealing 2 damage.</p>",
     "action": {
       "roll": {
         "ability": "int",

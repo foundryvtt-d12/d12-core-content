@@ -5,7 +5,7 @@
   "type": "spell",
   "img": "modules/d12-assets/assets/spells/create-food.webp",
   "system": {
-    "description": "You create a delicious meal.",
+    "description": "<p style=\"text-align: center;\">You create a delicious meal.</p>",
     "action": {
       "roll": {
         "ability": "cha",

@@ -5,7 +5,7 @@
   "type": "spell",
   "img": "modules/d12-assets/assets/spells/call-magical-creatures.webp",
   "system": {
-    "description": "You call any magical creature who can hear you.",
+    "description": "<p style=\"text-align: center;\">You call any magical creature who can hear you.</p>",
     "action": {
       "roll": {
         "ability": "cha",

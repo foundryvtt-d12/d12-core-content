@@ -5,7 +5,7 @@
   "type": "spell",
   "img": "modules/d12-assets/assets/spells/stun.webp",
   "system": {
-    "description": "You stun the target.",
+    "description": "<p style=\"text-align: center;\">You stun the target.</p>",
     "action": {
       "roll": {
         "ability": "str",

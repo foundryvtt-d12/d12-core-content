@@ -5,7 +5,7 @@
   "type": "spell",
   "img": "modules/d12-assets/assets/spells/reroll.webp",
   "system": {
-    "description": "You may reroll the die.",
+    "description": "<p style=\"text-align: center;\">You may reroll the die.</p>",
     "charges": {
       "value": 0,
       "max": 0

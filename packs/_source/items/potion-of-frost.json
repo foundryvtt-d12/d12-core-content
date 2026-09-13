@@ -5,7 +5,7 @@
   "type": "item",
   "img": "modules/d12-assets/assets/items/potion-of-frost.png",
   "system": {
-    "description": "You turn to ice.",
+    "description": "<p style=\"text-align: center;\">You turn to ice.</p>",
     "quantity": 1,
     "weight": 1,
     "rarity": "common",

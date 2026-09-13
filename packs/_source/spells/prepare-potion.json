@@ -5,7 +5,7 @@
   "type": "spell",
   "img": "modules/d12-assets/assets/spells/prepare-potion.webp",
   "system": {
-    "description": "You prepare a potion.<br />Miss: The effect of the potion is unknown.",
+    "description": "<p style=\"text-align: center;\">You prepare a potion.<br /><strong>Miss:</strong> The effect of the potion is unknown.</p>",
     "action": {
       "roll": {
         "ability": "str",

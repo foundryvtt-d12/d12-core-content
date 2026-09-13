@@ -5,7 +5,7 @@
   "type": "item",
   "img": "modules/d12-assets/assets/items/poison-potion.png",
   "system": {
-    "description": "You become poisoned.",
+    "description": "<p style=\"text-align: center;\">You become poisoned.</p>",
     "quantity": 1,
     "weight": 1,
     "rarity": "common",

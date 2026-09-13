@@ -5,7 +5,7 @@
   "type": "spell",
   "img": "modules/d12-assets/assets/spells/intimidate.webp",
   "system": {
-    "description": "You intimidate the target.",
+    "description": "<p style=\"text-align: center;\">You intimidate the target.</p>",
     "action": {
       "roll": {
         "ability": "str",

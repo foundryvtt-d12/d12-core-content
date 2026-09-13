@@ -5,7 +5,7 @@
   "type": "spell",
   "img": "modules/d12-assets/assets/spells/group-healing.webp",
   "system": {
-    "description": "Restore 2 health to all nearby allies.",
+    "description": "<p style=\"text-align: center;\">Restore 2 health to all nearby allies.</p>",
     "action": {
       "roll": {
         "ability": "cha",

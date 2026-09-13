@@ -5,7 +5,7 @@
   "type": "spell",
   "img": "modules/d12-assets/assets/spells/underwater-breathing.webp",
   "system": {
-    "description": "You can breathe under water.",
+    "description": "<p style=\"text-align: center;\">You can breathe under water.</p>",
     "charges": {
       "value": 0,
       "max": 0

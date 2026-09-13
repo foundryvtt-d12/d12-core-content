@@ -5,7 +5,7 @@
   "type": "spell",
   "img": "modules/d12-assets/assets/spells/light.webp",
   "system": {
-    "description": "You summon a small sphere shedding a bright light.",
+    "description": "<p style=\"text-align: center;\">You summon a small sphere shedding a bright light.</p>",
     "charges": {
       "value": 0,
       "max": 0

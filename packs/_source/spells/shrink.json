@@ -5,7 +5,7 @@
   "type": "spell",
   "img": "modules/d12-assets/assets/spells/shrink.webp",
   "system": {
-    "description": "Shrink a willing target.",
+    "description": "<p style=\"text-align: center;\">Shrink a willing target.</p>",
     "action": {
       "roll": {
         "ability": "int",

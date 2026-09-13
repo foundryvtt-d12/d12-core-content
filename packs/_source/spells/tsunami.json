@@ -5,7 +5,7 @@
   "type": "spell",
   "img": "modules/d12-assets/assets/spells/tsunami.webp",
   "system": {
-    "description": "You release a tsunami onto the target dealing 3 damage.",
+    "description": "<p style=\"text-align: center;\">You release a tsunami onto the target dealing 3 damage.</p>",
     "action": {
       "roll": {
         "ability": "int",

@@ -5,7 +5,7 @@
   "type": "spell",
   "img": "modules/d12-assets/assets/spells/extra-attack.webp",
   "system": {
-    "description": "You can attack a second time during your turn.",
+    "description": "<p style=\"text-align: center;\">You can attack a second time during your turn.</p>",
     "charges": {
       "value": 0,
       "max": 0
