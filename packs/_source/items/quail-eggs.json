@@ -1,0 +1,20 @@
+{
+  "_id": "ditm000000000225",
+  "_key": "!items!ditm000000000225",
+  "name": "Quail Eggs",
+  "type": "item",
+  "img": "modules/d12-assets/assets/items/quail-eggs.png",
+  "system": {
+    "description": "<p style=\"text-align: center;\"><strong>Food</strong></p>\n<p style=\"text-align: center;\">Speckled quail eggs, gathered still warm from a hidden ground nest, tasting faintly of nearby wildflowers.</p>",
+    "action": {},
+    "quantity": 1,
+    "weight": 1,
+    "rarity": "common",
+    "price": 2,
+    "category": "consumable"
+  },
+  "effects": [],
+  "flags": {},
+  "sort": 100000,
+  "folder": "difo000000000005"
+}

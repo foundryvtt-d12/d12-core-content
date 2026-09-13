@@ -1,0 +1,20 @@
+{
+  "_id": "ditm000000000221",
+  "_key": "!items!ditm000000000221",
+  "name": "Lemon Pound Cake",
+  "type": "item",
+  "img": "modules/d12-assets/assets/items/lemon-pound-cake.png",
+  "system": {
+    "description": "<p style=\"text-align: center;\"><strong>Food</strong></p>\n<p style=\"text-align: center;\">A pound cake coated in a sugary lemon drizzle.</p>",
+    "action": {},
+    "quantity": 1,
+    "weight": 3,
+    "rarity": "common",
+    "price": 5,
+    "category": "consumable"
+  },
+  "effects": [],
+  "flags": {},
+  "sort": 100000,
+  "folder": "difo000000000005"
+}

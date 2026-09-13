@@ -1,0 +1,20 @@
+{
+  "_id": "ditm000000000230",
+  "_key": "!items!ditm000000000230",
+  "name": "Wild Boar",
+  "type": "item",
+  "img": "modules/d12-assets/assets/items/wild-boar.png",
+  "system": {
+    "description": "<p style=\"text-align: center;\"><strong>Food</strong></p>\n<p style=\"text-align: center;\">A haunch of wild boar, tough and gamey, rewarding a slow roast over a patient fire.</p>",
+    "action": {},
+    "quantity": 1,
+    "weight": 5,
+    "rarity": "common",
+    "price": 10,
+    "category": "consumable"
+  },
+  "effects": [],
+  "flags": {},
+  "sort": 100000,
+  "folder": "difo000000000005"
+}

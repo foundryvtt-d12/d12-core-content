@@ -1,0 +1,20 @@
+{
+  "_id": "ditm000000000223",
+  "_key": "!items!ditm000000000223",
+  "name": "Black Ooze Bread Pudding",
+  "type": "item",
+  "img": "modules/d12-assets/assets/items/black-ooze-bread-pudding.png",
+  "system": {
+    "description": "<p style=\"text-align: center;\"><strong>Food</strong></p>\n<p style=\"text-align: center;\">An acrid-smelling, albeit surprisingly sweet, bread pudding that tastes of cinnamon licorice.</p>",
+    "action": {},
+    "quantity": 1,
+    "weight": 2,
+    "rarity": "common",
+    "price": 3,
+    "category": "consumable"
+  },
+  "effects": [],
+  "flags": {},
+  "sort": 100000,
+  "folder": "difo000000000005"
+}

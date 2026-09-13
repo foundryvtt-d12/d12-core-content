@@ -1,0 +1,20 @@
+{
+  "_id": "ditm000000000232",
+  "_key": "!items!ditm000000000232",
+  "name": "Frost Berries",
+  "type": "item",
+  "img": "modules/d12-assets/assets/items/frost-berries.png",
+  "system": {
+    "description": "<p style=\"text-align: center;\"><strong>Food</strong></p>\n<p style=\"text-align: center;\">Frost berries found only on the highest slopes, numbing the tongue slightly and prized for their icy sweetness.</p>",
+    "action": {},
+    "quantity": 1,
+    "weight": 1,
+    "rarity": "common",
+    "price": 3,
+    "category": "consumable"
+  },
+  "effects": [],
+  "flags": {},
+  "sort": 100000,
+  "folder": "difo000000000005"
+}
