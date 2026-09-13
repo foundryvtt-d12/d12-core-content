@@ -3,7 +3,7 @@
   "_key": "!items!dspl000000000218",
   "name": "Wind",
   "type": "spell",
-  "img": "icons/svg/item-bag.svg",
+  "img": "modules/d12-assets/assets/spells/wind.webp",
   "system": {
     "description": "You release a gust of wind onto the target dealing 3 damage.",
     "action": {

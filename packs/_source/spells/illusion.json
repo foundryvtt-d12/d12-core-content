@@ -3,7 +3,7 @@
   "_key": "!items!dspl000000000115",
   "name": "Illusion",
   "type": "spell",
-  "img": "icons/svg/item-bag.svg",
+  "img": "modules/d12-assets/assets/spells/illusion.webp",
   "system": {
     "description": "You create an illusion of an object or person that disappears when touched.",
     "charges": {

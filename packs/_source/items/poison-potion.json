@@ -3,7 +3,7 @@
   "_key": "!items!ditm000000000215",
   "name": "Poison Potion",
   "type": "item",
-  "img": "icons/svg/item-bag.svg",
+  "img": "modules/d12-assets/assets/items/poison-potion.png",
   "system": {
     "description": "You become poisoned.",
     "quantity": 1,

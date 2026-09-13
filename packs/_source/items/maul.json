@@ -3,7 +3,7 @@
   "_key": "!items!ditm000000000113",
   "name": "Maul",
   "type": "item",
-  "img": "icons/svg/item-bag.svg",
+  "img": "modules/d12-assets/assets/items/maul.png",
   "system": {
     "description": "Two-handed<br />Deal 2 damage.<br />Roll 11, 12: Stun the target.",
     "action": {

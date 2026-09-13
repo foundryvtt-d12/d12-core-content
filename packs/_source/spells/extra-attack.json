@@ -3,7 +3,7 @@
   "_key": "!items!dspl000000000108",
   "name": "Extra Attack",
   "type": "spell",
-  "img": "icons/svg/item-bag.svg",
+  "img": "modules/d12-assets/assets/spells/extra-attack.webp",
   "system": {
     "description": "You can attack a second time during your turn.",
     "charges": {

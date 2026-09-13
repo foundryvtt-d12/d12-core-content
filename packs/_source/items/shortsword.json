@@ -3,7 +3,7 @@
   "_key": "!items!ditm000000000119",
   "name": "Shortsword",
   "type": "item",
-  "img": "icons/svg/item-bag.svg",
+  "img": "modules/d12-assets/assets/items/shortsword.png",
   "system": {
     "description": "Deal 1 damage.",
     "action": {

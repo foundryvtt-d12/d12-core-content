@@ -3,7 +3,7 @@
   "_key": "!items!ditm000000000212",
   "name": "Healing Potion",
   "type": "item",
-  "img": "icons/svg/item-bag.svg",
+  "img": "modules/d12-assets/assets/items/healing-potion.png",
   "system": {
     "description": "Restore 3 health.",
     "quantity": 1,

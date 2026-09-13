@@ -3,7 +3,7 @@
   "_key": "!items!dspl000000000109",
   "name": "Find Traps",
   "type": "spell",
-  "img": "icons/svg/item-bag.svg",
+  "img": "modules/d12-assets/assets/spells/find-traps.webp",
   "system": {
     "description": "Detect traps around you.",
     "action": {

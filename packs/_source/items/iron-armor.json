@@ -3,7 +3,7 @@
   "_key": "!items!ditm000000000203",
   "name": "Iron Armor",
   "type": "item",
-  "img": "icons/svg/item-bag.svg",
+  "img": "modules/d12-assets/assets/items/iron-armor.png",
   "system": {
     "description": "+2 Armor<br />Requires: 1 Strength",
     "quantity": 1,

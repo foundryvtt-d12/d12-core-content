@@ -3,7 +3,7 @@
   "_key": "!items!ditm000000000122",
   "name": "Staff of Flames",
   "type": "item",
-  "img": "icons/svg/item-bag.svg",
+  "img": "modules/d12-assets/assets/items/staff-of-flames.png",
   "system": {
     "description": "Two-handed, Fire<br />Deal 1 damage.",
     "action": {

@@ -3,7 +3,7 @@
   "_key": "!items!ditm000000000202",
   "name": "Chain Mail",
   "type": "item",
-  "img": "icons/svg/item-bag.svg",
+  "img": "modules/d12-assets/assets/items/chain-mail.png",
   "system": {
     "description": "+3 Armor<br />Requires: 2 Strength",
     "quantity": 1,

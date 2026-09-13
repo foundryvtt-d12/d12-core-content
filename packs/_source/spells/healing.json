@@ -3,7 +3,7 @@
   "_key": "!items!dspl000000000113",
   "name": "Healing",
   "type": "spell",
-  "img": "icons/svg/item-bag.svg",
+  "img": "modules/d12-assets/assets/spells/healing.webp",
   "system": {
     "description": "Restore 3 health to a character you can touch.<br />Miss: Restore 1 health.",
     "action": {

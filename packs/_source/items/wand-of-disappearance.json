@@ -3,7 +3,7 @@
   "_key": "!items!ditm000000000125",
   "name": "Wand of Disappearance",
   "type": "item",
-  "img": "icons/svg/item-bag.svg",
+  "img": "modules/d12-assets/assets/items/wand-of-disappearance.png",
   "system": {
     "description": "The target becomes invisible.<br />Cooldown: 1 hour",
     "action": {

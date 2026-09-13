@@ -3,7 +3,7 @@
   "_key": "!items!ditm000000000201",
   "name": "Basic Shield",
   "type": "item",
-  "img": "icons/svg/item-bag.svg",
+  "img": "modules/d12-assets/assets/items/basic-shield.png",
   "system": {
     "description": "+1 Armor",
     "quantity": 1,

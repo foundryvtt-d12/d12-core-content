@@ -3,7 +3,7 @@
   "_key": "!items!ditm000000000208",
   "name": "Protective Orb",
   "type": "item",
-  "img": "icons/svg/item-bag.svg",
+  "img": "modules/d12-assets/assets/items/protective-orb.png",
   "system": {
     "description": "+1 Magic Defense",
     "quantity": 1,

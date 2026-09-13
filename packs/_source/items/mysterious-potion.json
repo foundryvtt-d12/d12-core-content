@@ -3,7 +3,7 @@
   "_key": "!items!ditm000000000214",
   "name": "Mysterious Potion",
   "type": "item",
-  "img": "icons/svg/item-bag.svg",
+  "img": "modules/d12-assets/assets/items/mysterious-potion.png",
   "system": {
     "description": "A magic potion with unknown effect.",
     "quantity": 1,

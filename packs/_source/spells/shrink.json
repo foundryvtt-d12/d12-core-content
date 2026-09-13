@@ -3,7 +3,7 @@
   "_key": "!items!dspl000000000209",
   "name": "Shrink",
   "type": "spell",
-  "img": "icons/svg/item-bag.svg",
+  "img": "modules/d12-assets/assets/spells/shrink.webp",
   "system": {
     "description": "Shrink a willing target.",
     "action": {

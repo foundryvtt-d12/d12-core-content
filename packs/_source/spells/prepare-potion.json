@@ -3,7 +3,7 @@
   "_key": "!items!dspl000000000206",
   "name": "Prepare Potion",
   "type": "spell",
-  "img": "icons/svg/item-bag.svg",
+  "img": "modules/d12-assets/assets/spells/prepare-potion.webp",
   "system": {
     "description": "You prepare a potion.<br />Miss: The effect of the potion is unknown.",
     "action": {

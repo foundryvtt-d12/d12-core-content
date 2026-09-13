@@ -3,7 +3,7 @@
   "_key": "!items!ditm000000000207",
   "name": "Magic Shield",
   "type": "item",
-  "img": "icons/svg/item-bag.svg",
+  "img": "modules/d12-assets/assets/items/magic-shield.png",
   "system": {
     "description": "+1 Magic Defense",
     "quantity": 1,

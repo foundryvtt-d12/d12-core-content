@@ -3,7 +3,7 @@
   "_key": "!items!ditm000000000110",
   "name": "Light Crossbow",
   "type": "item",
-  "img": "icons/svg/item-bag.svg",
+  "img": "modules/d12-assets/assets/items/light-crossbow.png",
   "system": {
     "description": "Two-handed<br />Deal 1 damage.",
     "action": {

@@ -3,7 +3,7 @@
   "_key": "!items!dspl000000000116",
   "name": "Intimidate",
   "type": "spell",
-  "img": "icons/svg/item-bag.svg",
+  "img": "modules/d12-assets/assets/spells/intimidate.webp",
   "system": {
     "description": "You intimidate the target.",
     "action": {

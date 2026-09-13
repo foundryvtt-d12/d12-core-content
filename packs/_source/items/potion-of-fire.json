@@ -3,7 +3,7 @@
   "_key": "!items!ditm000000000211",
   "name": "Potion of Fire",
   "type": "item",
-  "img": "icons/svg/item-bag.svg",
+  "img": "modules/d12-assets/assets/items/potion-of-fire.png",
   "system": {
     "description": "Anything coming into contact with this potion burns.",
     "quantity": 1,

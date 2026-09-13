@@ -3,7 +3,7 @@
   "_key": "!items!dspl000000000207",
   "name": "Reroll",
   "type": "spell",
-  "img": "icons/svg/item-bag.svg",
+  "img": "modules/d12-assets/assets/spells/reroll.webp",
   "system": {
     "description": "You may reroll the die.",
     "charges": {

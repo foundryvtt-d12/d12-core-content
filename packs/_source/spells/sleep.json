@@ -3,7 +3,7 @@
   "_key": "!items!dspl000000000210",
   "name": "Sleep",
   "type": "spell",
-  "img": "icons/svg/item-bag.svg",
+  "img": "modules/d12-assets/assets/spells/sleep.webp",
   "system": {
     "description": "The target falls asleep.",
     "action": {

@@ -3,7 +3,7 @@
   "_key": "!items!dspl000000000107",
   "name": "Explosive Trap",
   "type": "spell",
-  "img": "icons/svg/item-bag.svg",
+  "img": "modules/d12-assets/assets/spells/explosive-trap.webp",
   "system": {
     "description": "You set a trap which you can detonate from a distance.<br />Deals 2 damage.",
     "charges": {

@@ -3,7 +3,7 @@
   "_key": "!items!dspl000000000118",
   "name": "Lightning Arrow",
   "type": "spell",
-  "img": "icons/svg/item-bag.svg",
+  "img": "modules/d12-assets/assets/spells/lightning-arrow.webp",
   "system": {
     "description": "Your next ranged attack deals an additional 2 damage using lightning.",
     "charges": {

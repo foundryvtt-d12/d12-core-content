@@ -3,7 +3,7 @@
   "_key": "!items!dspl000000000110",
   "name": "Fly",
   "type": "spell",
-  "img": "icons/svg/item-bag.svg",
+  "img": "modules/d12-assets/assets/spells/fly.webp",
   "system": {
     "description": "You can fly.",
     "action": {

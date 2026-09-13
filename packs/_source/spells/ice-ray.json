@@ -3,7 +3,7 @@
   "_key": "!items!dspl000000000114",
   "name": "Ice Ray",
   "type": "spell",
-  "img": "icons/svg/item-bag.svg",
+  "img": "modules/d12-assets/assets/spells/ice-ray.webp",
   "system": {
     "description": "You project a ray of frost on the target dealing 2 damage.<br />Miss: The target is only slowed.",
     "action": {
