@@ -5,7 +5,7 @@
   "type": "item",
   "img": "modules/d12-assets/assets/items/magic-shield.png",
   "system": {
-    "description": "<p style=\"text-align: center;\">+1 Magic Defense</p>",
+    "description": "<p style=\"text-align: center;\">+1 Endurance</p>",
     "quantity": 1,
     "weight": 6,
     "rarity": "common",

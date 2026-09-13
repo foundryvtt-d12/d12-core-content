@@ -11,7 +11,7 @@
         "ability": "cha",
         "bonus": 0,
         "target": {
-          "type": "end"
+          "type": "wil"
         }
       }
     },
