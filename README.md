@@ -39,3 +39,5 @@ To edit content locally:
 ## License
 
 Licensed under [CC BY-NC 4.0](LICENSE).
+
+Third-party artwork credits are listed in [ATTRIBUTIONS.md](ATTRIBUTIONS.md).
