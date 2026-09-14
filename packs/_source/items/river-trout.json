@@ -3,7 +3,7 @@
   "_key": "!items!ditm000000000226",
   "name": "River Trout",
   "type": "item",
-  "img": "modules/d12-assets/assets/items/river-trout.png",
+  "img": "modules/d12-core-content/assets/items/river-trout.png",
   "system": {
     "description": "<p style=\"text-align: center;\"><strong>Food</strong></p>\n<p style=\"text-align: center;\">A silver-scaled river trout, freshly caught and best skewered and smoked over an open campfire.</p>",
     "action": {},

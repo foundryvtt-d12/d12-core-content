@@ -3,7 +3,7 @@
   "_key": "!items!ditm000000000206",
   "name": "Leather Armor",
   "type": "item",
-  "img": "modules/d12-assets/assets/items/leather-armor.png",
+  "img": "modules/d12-core-content/assets/items/leather-armor.png",
   "system": {
     "description": "<p style=\"text-align: center;\">+1 Armor</p>",
     "quantity": 1,

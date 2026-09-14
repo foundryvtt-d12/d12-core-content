@@ -3,7 +3,7 @@
   "_key": "!items!ditm000000000233",
   "name": "Cave Crayfish",
   "type": "item",
-  "img": "modules/d12-assets/assets/items/cave-crayfish.png",
+  "img": "modules/d12-core-content/assets/items/cave-crayfish.png",
   "system": {
     "description": "<p style=\"text-align: center;\"><strong>Food</strong></p>\n<p style=\"text-align: center;\">Crayfish pulled from cold underground streams, turning a bright orange when boiled over coals.</p>",
     "action": {},

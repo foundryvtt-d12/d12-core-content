@@ -3,7 +3,7 @@
   "_key": "!items!dspl000000000208",
   "name": "Shining Sword",
   "type": "spell",
-  "img": "modules/d12-assets/assets/spells/shining-sword.webp",
+  "img": "modules/d12-core-content/assets/spells/shining-sword.webp",
   "system": {
     "description": "<p style=\"text-align: center;\">Your sword glows brightly.</p>",
     "charges": {

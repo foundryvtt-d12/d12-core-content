@@ -3,7 +3,7 @@
   "_key": "!items!ditm000000000123",
   "name": "Staff of Snow",
   "type": "item",
-  "img": "modules/d12-assets/assets/items/staff-of-snow.png",
+  "img": "modules/d12-core-content/assets/items/staff-of-snow.png",
   "system": {
     "description": "<p style=\"text-align: center;\"><strong>Two-handed, Ice</strong></p>\n<p style=\"text-align: center;\">Deal 1 damage.</p>",
     "action": {

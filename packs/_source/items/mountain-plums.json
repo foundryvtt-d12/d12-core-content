@@ -3,7 +3,7 @@
   "_key": "!items!ditm000000000236",
   "name": "Mountain Plums",
   "type": "item",
-  "img": "modules/d12-assets/assets/items/mountain-plums.png",
+  "img": "modules/d12-core-content/assets/items/mountain-plums.png",
   "system": {
     "description": "<p style=\"text-align: center;\"><strong>Food</strong></p>\n<p style=\"text-align: center;\">Small dark blue mountain plums, clustered on a thorny wild shrub found on rocky highland slopes.</p>",
     "action": {},

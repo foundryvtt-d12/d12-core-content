@@ -3,7 +3,7 @@
   "_key": "!items!dspl000000000204",
   "name": "Night Vision",
   "type": "spell",
-  "img": "modules/d12-assets/assets/spells/night-vision.webp",
+  "img": "modules/d12-core-content/assets/spells/night-vision.webp",
   "system": {
     "description": "<p style=\"text-align: center;\">You can see in the dark.</p>",
     "charges": {

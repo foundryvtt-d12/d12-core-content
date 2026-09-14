@@ -3,7 +3,7 @@
   "_key": "!items!ditm000000000229",
   "name": "Marsh Clams",
   "type": "item",
-  "img": "modules/d12-assets/assets/items/marsh-clams.png",
+  "img": "modules/d12-core-content/assets/items/marsh-clams.png",
   "system": {
     "description": "<p style=\"text-align: center;\"><strong>Food</strong></p>\n<p style=\"text-align: center;\">Marsh clams dug from the muddy shallows, hiding a briny sweetness beneath their rough grey shells.</p>",
     "action": {},

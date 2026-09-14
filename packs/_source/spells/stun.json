@@ -3,7 +3,7 @@
   "_key": "!items!dspl000000000213",
   "name": "Stun",
   "type": "spell",
-  "img": "modules/d12-assets/assets/spells/stun.webp",
+  "img": "modules/d12-core-content/assets/spells/stun.webp",
   "system": {
     "description": "<p style=\"text-align: center;\">You stun the target.</p>",
     "action": {

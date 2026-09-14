@@ -3,7 +3,7 @@
   "_key": "!items!dspl000000000212",
   "name": "Speed",
   "type": "spell",
-  "img": "modules/d12-assets/assets/spells/speed.webp",
+  "img": "modules/d12-core-content/assets/spells/speed.webp",
   "system": {
     "description": "<p style=\"text-align: center;\">You can run extremely fast.</p>",
     "charges": {

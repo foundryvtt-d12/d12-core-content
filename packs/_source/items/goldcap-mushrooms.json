@@ -3,7 +3,7 @@
   "_key": "!items!ditm000000000227",
   "name": "Goldcap Mushrooms",
   "type": "item",
-  "img": "modules/d12-assets/assets/items/goldcap-mushrooms.png",
+  "img": "modules/d12-core-content/assets/items/goldcap-mushrooms.png",
   "system": {
     "description": "<p style=\"text-align: center;\"><strong>Food</strong></p>\n<p style=\"text-align: center;\">Goldcap mushrooms gathered from the base of an old oak, their caps glowing faintly at dusk with a harmless, edible luminescence.</p>",
     "action": {},

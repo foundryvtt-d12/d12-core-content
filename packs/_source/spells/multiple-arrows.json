@@ -3,7 +3,7 @@
   "_key": "!items!dspl000000000203",
   "name": "Multiple Arrows",
   "type": "spell",
-  "img": "modules/d12-assets/assets/spells/multiple-arrows.webp",
+  "img": "modules/d12-core-content/assets/spells/multiple-arrows.webp",
   "system": {
     "description": "<p style=\"text-align: center;\">You shoot 3 arrows dealing 1 damage each.</p>",
     "action": {

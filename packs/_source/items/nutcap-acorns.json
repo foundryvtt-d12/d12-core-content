@@ -3,7 +3,7 @@
   "_key": "!items!ditm000000000231",
   "name": "Nutcap Acorns",
   "type": "item",
-  "img": "modules/d12-assets/assets/items/nutcap-acorns.png",
+  "img": "modules/d12-core-content/assets/items/nutcap-acorns.png",
   "system": {
     "description": "<p style=\"text-align: center;\"><strong>Food</strong></p>\n<p style=\"text-align: center;\">Roasted nutcap acorns that lose their bitterness and take on a rich, earthy flavor.</p>",
     "action": {},

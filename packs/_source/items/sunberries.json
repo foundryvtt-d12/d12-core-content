@@ -3,7 +3,7 @@
   "_key": "!items!ditm000000000224",
   "name": "Sunberries",
   "type": "item",
-  "img": "modules/d12-assets/assets/items/sunberries.png",
+  "img": "modules/d12-core-content/assets/items/sunberries.png",
   "system": {
     "description": "<p style=\"text-align: center;\"><strong>Food</strong></p>\n<p style=\"text-align: center;\">Small tart sunberries that stain the fingers a deep crimson, best eaten straight off the bramble.</p>",
     "action": {},

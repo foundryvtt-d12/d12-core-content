@@ -3,7 +3,7 @@
   "_key": "!items!dspl000000000106",
   "name": "Electricity",
   "type": "spell",
-  "img": "modules/d12-assets/assets/spells/electricity.webp",
+  "img": "modules/d12-core-content/assets/spells/electricity.webp",
   "system": {
     "description": "<p style=\"text-align: center;\">You create a ball of lightning dealing 2 damage to the target.</p>",
     "action": {

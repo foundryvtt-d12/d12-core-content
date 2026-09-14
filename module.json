@@ -1,6 +1,6 @@
 {
-  "id": "d12-assets",
-  "title": "D12 Core Asset Pack",
+  "id": "d12-core-content",
+  "title": "D12 Core Content",
   "description": "A shareable compendium pack of items, spells, and NPCs for the D12 system.",
   "authors": [
     {
@@ -8,12 +8,12 @@
       "url": "https://github.com/flavien/"
     }
   ],
-  "url": "https://github.com/foundryvtt-d12/d12-assets",
+  "url": "https://github.com/foundryvtt-d12/d12-core-content",
   "license": "LICENSE",
   "readme": "README.md",
   "manifest": "{MANIFEST}",
   "download": "{DOWNLOAD}",
-  "bugs": "https://github.com/foundryvtt-d12/d12-assets/issues",
+  "bugs": "https://github.com/foundryvtt-d12/d12-core-content/issues",
   "changelog": "CHANGELOG.md",
   "version": "{VERSION}",
   "compatibility": {

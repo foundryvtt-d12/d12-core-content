@@ -3,7 +3,7 @@
   "_key": "!items!ditm000000000220",
   "name": "Chocolate Zucchini Cake",
   "type": "item",
-  "img": "modules/d12-assets/assets/items/chocolate-zucchini-cake.png",
+  "img": "modules/d12-core-content/assets/items/chocolate-zucchini-cake.png",
   "system": {
     "description": "<p style=\"text-align: center;\"><strong>Food</strong></p>\n<p style=\"text-align: center;\">A chocolate zucchini cake coated in powdered sugar and crowned with fresh strawberries.</p>",
     "action": {},

@@ -1,5 +1,5 @@
 {
-  "name": "d12-assets",
+  "name": "d12-core-content",
   "version": "1.0.0",
   "description": "Compendium content module (items, spells, NPCs) for the D12 Foundry VTT system",
   "type": "module",

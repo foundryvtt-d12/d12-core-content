@@ -3,7 +3,7 @@
   "_key": "!items!ditm000000000218",
   "name": "French Baguette",
   "type": "item",
-  "img": "modules/d12-assets/assets/items/french-baguette.png",
+  "img": "modules/d12-core-content/assets/items/french-baguette.png",
   "system": {
     "description": "<p style=\"text-align: center;\"><strong>Food</strong></p>\n<p style=\"text-align: center;\">A plain French-style baguette, complete with a golden brown egg-wash crust.</p>",
     "action": {},

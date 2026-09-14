@@ -3,7 +3,7 @@
   "_key": "!items!dspl000000000205",
   "name": "Petrify",
   "type": "spell",
-  "img": "modules/d12-assets/assets/spells/petrify.webp",
+  "img": "modules/d12-core-content/assets/spells/petrify.webp",
   "system": {
     "description": "<p style=\"text-align: center;\">You touch the target and turn it to stone.</p>",
     "action": {

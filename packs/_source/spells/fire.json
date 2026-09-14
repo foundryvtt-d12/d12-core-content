@@ -3,7 +3,7 @@
   "_key": "!items!dspl000000000102",
   "name": "Fire",
   "type": "spell",
-  "img": "modules/d12-assets/assets/spells/fire.webp",
+  "img": "modules/d12-core-content/assets/spells/fire.webp",
   "system": {
     "description": "<p style=\"text-align: center;\">You throw a small fireball dealing 2 damage.</p>",
     "action": {

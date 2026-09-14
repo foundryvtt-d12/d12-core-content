@@ -3,7 +3,7 @@
   "_key": "!items!ditm000000000124",
   "name": "Trident",
   "type": "item",
-  "img": "modules/d12-assets/assets/items/trident.png",
+  "img": "modules/d12-core-content/assets/items/trident.png",
   "system": {
     "description": "<p style=\"text-align: center;\"><strong>Two-handed, Reach</strong></p>\n<p style=\"text-align: center;\">Deal 2 damage.</p>\n<p style=\"text-align: center;\"><strong>Critical:</strong> Damage ×2.</p>",
     "action": {

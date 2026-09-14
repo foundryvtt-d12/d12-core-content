@@ -3,7 +3,7 @@
   "_key": "!items!dspl000000000117",
   "name": "Invisibility",
   "type": "spell",
-  "img": "modules/d12-assets/assets/spells/invisibility.webp",
+  "img": "modules/d12-core-content/assets/spells/invisibility.webp",
   "system": {
     "description": "<p style=\"text-align: center;\">A character you can touch becomes invisible.</p>",
     "action": {

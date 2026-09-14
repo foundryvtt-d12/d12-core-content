@@ -3,7 +3,7 @@
   "_key": "!items!dspl000000000112",
   "name": "Group Healing",
   "type": "spell",
-  "img": "modules/d12-assets/assets/spells/group-healing.webp",
+  "img": "modules/d12-core-content/assets/spells/group-healing.webp",
   "system": {
     "description": "<p style=\"text-align: center;\">Restore 2 health to all nearby allies.</p>",
     "action": {

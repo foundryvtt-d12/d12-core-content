@@ -3,7 +3,7 @@
   "_key": "!items!ditm000000000103",
   "name": "Dagger",
   "type": "item",
-  "img": "modules/d12-assets/assets/items/dagger.png",
+  "img": "modules/d12-core-content/assets/items/dagger.png",
   "system": {
     "description": "<p style=\"text-align: center;\">Deal 1 damage.</p>",
     "action": {

@@ -3,7 +3,7 @@
   "_key": "!items!ditm000000000221",
   "name": "Lemon Pound Cake",
   "type": "item",
-  "img": "modules/d12-assets/assets/items/lemon-pound-cake.png",
+  "img": "modules/d12-core-content/assets/items/lemon-pound-cake.png",
   "system": {
     "description": "<p style=\"text-align: center;\"><strong>Food</strong></p>\n<p style=\"text-align: center;\">A pound cake coated in a sugary lemon drizzle.</p>",
     "action": {},

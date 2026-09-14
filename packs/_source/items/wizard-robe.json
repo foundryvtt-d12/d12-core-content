@@ -3,7 +3,7 @@
   "_key": "!items!ditm000000000210",
   "name": "Wizard Robe",
   "type": "item",
-  "img": "modules/d12-assets/assets/items/wizard-robe.png",
+  "img": "modules/d12-core-content/assets/items/wizard-robe.png",
   "system": {
     "description": "<p style=\"text-align: center;\">+1 Willpower</p>\n<p style=\"text-align: center;\"><strong>Requires:</strong> 1 Intelligence</p>",
     "quantity": 1,

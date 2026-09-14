@@ -3,7 +3,7 @@
   "_key": "!items!ditm000000000237",
   "name": "Swamp Persimmons",
   "type": "item",
-  "img": "modules/d12-assets/assets/items/swamp-persimmons.png",
+  "img": "modules/d12-core-content/assets/items/swamp-persimmons.png",
   "system": {
     "description": "<p style=\"text-align: center;\"><strong>Food</strong></p>\n<p style=\"text-align: center;\">Bright orange swamp persimmons, hanging heavy over dark still water.</p>",
     "action": {},

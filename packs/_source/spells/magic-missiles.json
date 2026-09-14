@@ -3,7 +3,7 @@
   "_key": "!items!dspl000000000202",
   "name": "Magic Missiles",
   "type": "spell",
-  "img": "modules/d12-assets/assets/spells/magic-missiles.webp",
+  "img": "modules/d12-core-content/assets/spells/magic-missiles.webp",
   "system": {
     "description": "<p style=\"text-align: center;\">You throw 3 magic missiles dealing 1 damage each.</p>",
     "action": {

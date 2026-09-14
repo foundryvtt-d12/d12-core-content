@@ -3,7 +3,7 @@
   "_key": "!items!dspl000000000105",
   "name": "Disguise",
   "type": "spell",
-  "img": "modules/d12-assets/assets/spells/disguise.webp",
+  "img": "modules/d12-core-content/assets/spells/disguise.webp",
   "system": {
     "description": "<p style=\"text-align: center;\">You can disguise youself into any character you have seen before.</p>",
     "charges": {

@@ -3,7 +3,7 @@
   "_key": "!items!ditm000000000235",
   "name": "Forest Figs",
   "type": "item",
-  "img": "modules/d12-assets/assets/items/forest-figs.png",
+  "img": "modules/d12-core-content/assets/items/forest-figs.png",
   "system": {
     "description": "<p style=\"text-align: center;\"><strong>Food</strong></p>\n<p style=\"text-align: center;\">Ripe forest figs, split open to reveal their deep red flesh.</p>",
     "action": {},

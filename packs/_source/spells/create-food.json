@@ -3,7 +3,7 @@
   "_key": "!items!dspl000000000103",
   "name": "Create Food",
   "type": "spell",
-  "img": "modules/d12-assets/assets/spells/create-food.webp",
+  "img": "modules/d12-core-content/assets/spells/create-food.webp",
   "system": {
     "description": "<p style=\"text-align: center;\">You create a delicious meal.</p>",
     "action": {

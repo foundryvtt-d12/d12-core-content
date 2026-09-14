@@ -3,7 +3,7 @@
   "_key": "!items!ditm000000000121",
   "name": "Spear",
   "type": "item",
-  "img": "modules/d12-assets/assets/items/spear.png",
+  "img": "modules/d12-core-content/assets/items/spear.png",
   "system": {
     "description": "<p style=\"text-align: center;\"><strong>Two-Handed, Reach</strong></p>\n<p style=\"text-align: center;\">Deal 2 damage.</p>",
     "action": {

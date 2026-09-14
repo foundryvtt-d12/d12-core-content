@@ -3,7 +3,7 @@
   "_key": "!items!dspl000000000111",
   "name": "Fog",
   "type": "spell",
-  "img": "modules/d12-assets/assets/spells/fog.webp",
+  "img": "modules/d12-core-content/assets/spells/fog.webp",
   "system": {
     "description": "<p style=\"text-align: center;\">You create a dense cloud of fog.</p>",
     "action": {

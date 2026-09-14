@@ -3,7 +3,7 @@
   "_key": "!items!ditm000000000219",
   "name": "Dragon Donut",
   "type": "item",
-  "img": "modules/d12-assets/assets/items/dragon-donut.png",
+  "img": "modules/d12-core-content/assets/items/dragon-donut.png",
   "system": {
     "description": "<p style=\"text-align: center;\"><strong>Food</strong></p>\n<p style=\"text-align: center;\">A twisted donut shaped like a dragon's horn, coated in a thin sugar glaze with a surprisingly spicy kick.</p>",
     "action": {},

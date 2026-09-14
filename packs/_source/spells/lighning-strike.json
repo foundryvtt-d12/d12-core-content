@@ -3,7 +3,7 @@
   "_key": "!items!dspl000000000201",
   "name": "Lighning Strike",
   "type": "spell",
-  "img": "modules/d12-assets/assets/spells/lighning-strike.webp",
+  "img": "modules/d12-core-content/assets/spells/lighning-strike.webp",
   "system": {
     "description": "<p style=\"text-align: center;\">Lightning strikes the target and deals 3 damage.<br /><strong>Miss:</strong> Deal 1 damage.</p>",
     "action": {

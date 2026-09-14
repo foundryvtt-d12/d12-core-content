@@ -3,7 +3,7 @@
   "_key": "!items!ditm000000000126",
   "name": "Wand of Healing",
   "type": "item",
-  "img": "modules/d12-assets/assets/items/wand-of-healing.png",
+  "img": "modules/d12-core-content/assets/items/wand-of-healing.png",
   "system": {
     "description": "<p style=\"text-align: center;\">Restore 1 health.</p>\n<p style=\"text-align: center;\"><strong>Cooldown:</strong> 1 hour</p>",
     "action": {

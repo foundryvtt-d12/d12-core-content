@@ -3,7 +3,7 @@
   "_key": "!items!dspl000000000211",
   "name": "Speak with Animals",
   "type": "spell",
-  "img": "modules/d12-assets/assets/spells/speak-with-animals.webp",
+  "img": "modules/d12-core-content/assets/spells/speak-with-animals.webp",
   "system": {
     "description": "<p style=\"text-align: center;\">You can speak with and understand animals.</p>",
     "charges": {

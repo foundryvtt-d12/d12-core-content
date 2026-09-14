@@ -3,7 +3,7 @@
   "_key": "!items!ditm000000000217",
   "name": "Apple Fruit Braid",
   "type": "item",
-  "img": "modules/d12-assets/assets/items/apple-fruit-braid.png",
+  "img": "modules/d12-core-content/assets/items/apple-fruit-braid.png",
   "system": {
     "description": "<p style=\"text-align: center;\"><strong>Food</strong></p>\n<p style=\"text-align: center;\">A golden braided pastry filled with minced and roasted fruit, apple filling being especially popular this season.</p>",
     "action": {},

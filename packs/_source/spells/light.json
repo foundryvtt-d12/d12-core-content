@@ -3,7 +3,7 @@
   "_key": "!items!dspl000000000104",
   "name": "Light",
   "type": "spell",
-  "img": "modules/d12-assets/assets/spells/light.webp",
+  "img": "modules/d12-core-content/assets/spells/light.webp",
   "system": {
     "description": "<p style=\"text-align: center;\">You summon a small sphere shedding a bright light.</p>",
     "charges": {

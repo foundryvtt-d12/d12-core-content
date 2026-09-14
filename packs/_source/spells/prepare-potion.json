@@ -3,7 +3,7 @@
   "_key": "!items!dspl000000000206",
   "name": "Prepare Potion",
   "type": "spell",
-  "img": "modules/d12-assets/assets/spells/prepare-potion.webp",
+  "img": "modules/d12-core-content/assets/spells/prepare-potion.webp",
   "system": {
     "description": "<p style=\"text-align: center;\">You prepare a potion.<br /><strong>Miss:</strong> The effect of the potion is unknown.</p>",
     "action": {

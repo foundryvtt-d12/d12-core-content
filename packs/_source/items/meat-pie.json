@@ -3,7 +3,7 @@
   "_key": "!items!ditm000000000222",
   "name": "Meat Pie",
   "type": "item",
-  "img": "modules/d12-assets/assets/items/meat-pie.png",
+  "img": "modules/d12-core-content/assets/items/meat-pie.png",
   "system": {
     "description": "<p style=\"text-align: center;\"><strong>Food</strong></p>\n<p style=\"text-align: center;\">A meat pie stuffed with local game, giving off wisps of steam and heavy aromas.</p>",
     "action": {},

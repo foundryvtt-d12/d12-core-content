@@ -3,7 +3,7 @@
   "_key": "!items!ditm000000000238",
   "name": "Sourvine Kiwi",
   "type": "item",
-  "img": "modules/d12-assets/assets/items/sourvine-kiwi.png",
+  "img": "modules/d12-core-content/assets/items/sourvine-kiwi.png",
   "system": {
     "description": "<p style=\"text-align: center;\"><strong>Food</strong></p>\n<p style=\"text-align: center;\">A fuzzy sourvine kiwi, its bright green flesh sweet and tangy when sliced open.</p>",
     "action": {},

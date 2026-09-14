@@ -1,4 +1,4 @@
-# D12 Core Asset Pack
+# D12 Core Content Pack
 
 A shareable compendium module for the [D12 system](https://github.com/foundryvtt-d12/d12) in Foundry Virtual Tabletop. It ships ready-to-use compendiums of **Items**, **Spells**, and **NPCs** so a D12 game can be started without hand-authoring content first.
 
@@ -7,10 +7,10 @@ A shareable compendium module for the [D12 system](https://github.com/foundryvtt
 Requires the D12 system to be installed. In Foundry's **Add-on Modules** install screen, use this manifest URL:
 
 ```
-https://github.com/foundryvtt-d12/d12-assets/releases/latest/download/module.json
+https://github.com/foundryvtt-d12/d12-core-content/releases/latest/download/module.json
 ```
 
-Then enable "D12 Core Asset Pack" in your world's module settings.
+Then enable "D12 Core Content" in your world's module settings.
 
 ## Contents
 
@@ -31,7 +31,7 @@ npm run unpack    # re-export compiled packs back into packs/_source/** (after l
 To edit content locally:
 
 1. Run `npm run build`.
-2. Symlink this repository folder into your Foundry `Data/modules/d12-assets` folder.
+2. Symlink this repository folder into your Foundry `Data/modules/d12-core-content` folder.
 3. Enable the module in a D12 world, then either:
    - Edit the JSON files under `packs/_source/` directly and re-run `npm run build`, then use Foundry's "Reload All Compendiums", or
    - Unlock a compendium in Foundry and edit it live, then run `npm run unpack` to bring the changes back into `packs/_source/` for review and commit.
